@@ -1,0 +1,22 @@
+{
+  "name": "react-route",
+  "version": "1.0.0",
+  "description": "\"# react-route\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-haldar/react-route.git"
+  },
+  "keywords": [
+    "react-route"
+  ],
+  "author": "a haldar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-haldar/react-route/issues"
+  },
+  "homepage": "https://github.com/a-haldar/react-route#readme"
+}
