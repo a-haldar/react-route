@@ -1,12 +1,13 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-export default class NotFound extends React.Component {
-  render(){
+const NotFound = () => {
+
     return(
       <div>
         Page Not Not
         <Link to="/">Home </Link>
       </div>
     );
-  }
+
 }
+export default NotFound;
